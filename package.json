@@ -1,0 +1,22 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/absk786/jest-another-RPG.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/absk786/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/absk786/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.0.4"
+  }
+}
